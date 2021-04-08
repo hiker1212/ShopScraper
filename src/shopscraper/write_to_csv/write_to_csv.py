@@ -1,6 +1,8 @@
 import csv
+
+
 def write_to_csv(devices):
-    filename = 'devices.csv'
+    filename = '../../devices.csv'
 
     with open(filename, 'w') as f:
         writer = csv.writer(f)
