@@ -4,7 +4,7 @@ import csv
 def write_to_csv(devices):
     filename = '../../devices.csv'
 
-    with open(filename, 'w') as f:
+    with open(filename, 'w', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(["name", "color", "storage", "memory", "screen", "cpu", "battery", "os", "cpu_speed", "price"])
         for device in devices:
