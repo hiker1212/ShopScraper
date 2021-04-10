@@ -2,7 +2,7 @@ import csv
 
 
 def write_to_csv(devices):
-    filename = '../../devices.csv'
+    filename = '../../Phones_Mediamarkt.csv'
 
     with open(filename, 'w', newline='') as f:
         writer = csv.writer(f)
