@@ -9,3 +9,5 @@ En este proyecto se trata de definir una estructura base para el desarrollo de d
 Siguiendo la estructura del proyecto se podría tratar de incrementar el número de scrapers y objetos para permitir el análisis de distintas tiendas online y de distintos tipos de productos con lo que se obtengan nuevos conjuntos de datos para inspeccionar y comparar.
 
 En el fichero *Practica1.pdf* se pueden encontrar las respuestas a los distintos apartados de la práctica.
+
+Para la publicación del dataset se ha escogido la plataforma Zenodo (zenodo.org) y se ha publicado bajo el **título** “Phones_Mediamarkt dataset” con el **DOI** “10.5281/zenodo.4678303” y con la **url** “https://zenodo.org/record/4678303#.YHGYBegzYkk”.
